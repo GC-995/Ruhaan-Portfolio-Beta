@@ -1,6 +1,6 @@
 import React from 'react';
 import Home from './pages/Home';
-import { Helmet } from 'react-helmet'; // Add React Helmet for SEO optimization
+import { Helmet } from 'react-helmet';
 
 function App() {
   return (
