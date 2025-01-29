@@ -15,7 +15,7 @@ const Footer = () => {
             </p>
           </div>
 
-          {/* Social Media Links */}
+          
           <div className="flex gap-8">
             <a
               href="https://github.com/nikhiltelase"
