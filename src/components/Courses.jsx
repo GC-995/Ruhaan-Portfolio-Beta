@@ -70,6 +70,7 @@ const Courses = () => {
                     key={skillIndex}
                     className="bg-gradient-to-r from-purple-600 to-blue-600 text-white px-3 py-1 rounded-full text-sm shadow-sm"
                   >
+                    
                     {skill}
                   </span>
                 ))}
